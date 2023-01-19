@@ -1,3 +1,3 @@
 # shortlink
 
-<p>Link demo: http://linkin.rf.gd</p>
+<p>Link demo: http://linkin.rf.gd/</p>
